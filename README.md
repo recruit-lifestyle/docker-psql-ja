@@ -37,11 +37,9 @@ $ head result.tsv
 
 docker-psql-ja is owned and maintained by [RECRUIT LIFESTYLE CO., LTD.](http://www.recruit-lifestyle.co.jp/)
 
-docker-psql-ja was originally created by [Shinichi Takayanagi ](https://github.com/shinichi-takayanagi).
-
 ## Licence
 
-    Copyright (c) 2015 RECRUIT LIFESTYLE CO., LTD.
+    Copyright (c) 2017 RECRUIT LIFESTYLE CO., LTD.
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
